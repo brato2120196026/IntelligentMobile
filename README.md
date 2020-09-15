@@ -1,7 +1,7 @@
 # IntelligentMobile
 To create a simple mobile app to convert Census to F
-#Development Environment
+# Development Environment
 Andriod Studio
-#Programming Language
+# Programming Language
 Java
 
