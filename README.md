@@ -8,18 +8,21 @@
 
 # Some Basic Git Commands
 ## git init
+<ul>
 <ul>This command is used to start a new repository.</ul>
 <ul>
  <li>Usage: git init [repository name]</li> 
  </ul>
  
 ## git clone
+<ul>
  <ul>This command is used to obtain a repository from an existing URL.</ul>
  <ul>
   <li>Usage: git clone [url]</li> 
  </ul>
  
 ## git add
+<ul>
 <ul>This command adds a file to the staging area.</ul>
  <u>
 <li>Usage: git add [file]</li>
@@ -31,63 +34,63 @@
 
 ## git commit
 <ul>
-<li>This command records or snapshots the file permanently in the version history.</li>
+<ul>This command records or snapshots the file permanently in the version history.</ul>
 <ul>
 <li>Usage: git commit -m “[ Type in the commit message]” </li>
 <ul>
-<li>This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.</li>
+<ul>This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.</ul>
 <ul>
 <li>Usage: git commit -a </li> 
  </ul>
  
 ## git branch
 <ul>
-This command lists all the local branches in the current repository.</li>
+<ul>This command lists all the local branches in the current repository.</ul>
 <ul>
 <li>Usage: git branch </li>
 <ul>
-<li>This command creates a new branch.</li>
+<ul>This command creates a new branch.</ul>
 <ul>
 <li>Usage: git branch [branch name] </li> 
 <ul>
-<li>This command deletes the feature branch.</li>
+<ul>This command deletes the feature branch.</ul>
 <ul>
 <li>Usage: git branch -d [branch name] </li>
   </ul>
 
 ## git checkout
 <ul>
-<li>This command is used to switch from one branch to another.</li>
+<ul>This command is used to switch from one branch to another.</ul>
 <ul>
 <li>Usage: git checkout [branch name] </li> 
 <ul>
-<li>This command creates a new branch and also switches to it.</li>
+<ul>This command creates a new branch and also switches to it.</ul>
 <ul>
 <li>Usage: git checkout -b [branch name] </li>
   </ul>
 
 ## git push
 <ul>
-<li>This command sends the committed changes of master branch to your remote repository.</li>
+<ul>This command sends the committed changes of master branch to your remote repository.</ul>
 <ul>
 <li>Usage: git push [variable name] master  </li>
 <ul>
-<li>This command sends the branch commits to your remote repository.</li>
+<ul>This command sends the branch commits to your remote repository.</ul>
 <ul>
 <li>Usage: git push [variable name] [branch]  </li>
 <ul>
-<li>This command pushes all branches to your remote repository.</li>
+<ul>This command pushes all branches to your remote repository.</ul>
 <ul>
 <li>Usage: git push –all [variable name]  </li>
 <ul>
-<li>This command deletes a branch on your remote repository.</li>
+<ul>This command deletes a branch on your remote repository.</ul>
 <ul>
 <li>Usage: git push [variable name] :[branch name] </li> 
   </ul>
 
 ## git pull
 <ul>
-<li>This command fetches and merges changes on the remote server to your working directory.</li>
+<ul>This command fetches and merges changes on the remote server to your working directory.</ul>
 <ul>
 <li>Usage: git pull [Repository Link]  </li>
   </ul>
