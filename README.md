@@ -26,16 +26,16 @@
 ## git add
 <ul>
 <li>This command adds a file to the staging area.</li>
- <ul>
+<ul>
 <li>Usage: git add [file]</li>
- <ul>
+<ul>
 <li>This command adds one or more to the staging area.</li>
- <ul>
-  <li>Usage: git add *</li>
- </ul>
-  </ul>
-  </ul>
-  </ul>
+<ul>
+<li>Usage: git add *</li>
+</ul>
+</ul>
+</ul>
+</ul>
 
 ## git commit
 <ul>
