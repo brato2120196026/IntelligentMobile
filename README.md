@@ -12,6 +12,7 @@
 <ul>This command is used to start a new repository.</ul>
 <ul>
  <li>Usage: git init [repository name]</li> 
+ </li>
  </ul>
  
 ## git clone
@@ -19,6 +20,7 @@
  <ul>This command is used to obtain a repository from an existing URL.</ul>
  <ul>
   <li>Usage: git clone [url]</li> 
+  </li>
  </ul>
  
 ## git add
