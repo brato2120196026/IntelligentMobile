@@ -8,25 +8,23 @@
 
 # Some Basic Git Commands
 ## git init
-<ul>This command is used to start a new repository.</li>
+<ul>This command is used to start a new repository.</ul>
 <ul>
  <li>Usage: git init [repository name]</li> 
  </ul>
  
 ## git clone
-<ul>
- <li>This command is used to obtain a repository from an existing URL.</li>
+ <ul>This command is used to obtain a repository from an existing URL.</ul>
  <ul>
   <li>Usage: git clone [url]</li> 
  </ul>
  
 ## git add
-<ul>
-<li>This command adds a file to the staging area.</li>
+<ul>This command adds a file to the staging area.</ul>
  <u>
 <li>Usage: git add [file]</li>
  <ul>
-<li>This command adds one or more to the staging area.</li>
+<ul>This command adds one or more to the staging area.</ul>
  <ul>
   <li>Usage: git add *</li>
  </ul>
