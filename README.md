@@ -8,7 +8,7 @@
 
 # Some Basic Git Commands
 ## git init
-- This command is used to start a new repository.
+* This command is used to start a new repository.
 - - Usage: git init [repository name]
 ## git clone
 - This command is used to obtain a repository from an existing URL.
