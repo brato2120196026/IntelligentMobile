@@ -16,6 +16,7 @@
  <ul>
   <li>Usage: git clone [url]</li> 
  </ul>
+ 
 ## git add
 - This command adds a file to the staging area.
 - - Usage: git add [file] 
