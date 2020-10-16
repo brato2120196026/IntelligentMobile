@@ -9,5 +9,5 @@
 # Basic Git Commands
 ## git init
 - This command is used to start a new repository.
--- Usage: git init [repository name]
+- - Usage: git init [repository name]
 
