@@ -9,18 +9,18 @@
 # Some Basic Git Commands
 ## git init
 <ul>
-<ul>This command is used to start a new repository.</ul>
+<li>This command is used to start a new repository.</li>
 <ul>
  <li>Usage: git init [repository name]</li> 
- </li>
+ </ul>
  </ul>
  
 ## git clone
 <ul>
- <ul>This command is used to obtain a repository from an existing URL.</ul>
+ <li>This command is used to obtain a repository from an existing URL.</li>
  <ul>
   <li>Usage: git clone [url]</li> 
-  </li>
+  </ul>
  </ul>
  
 ## git add
