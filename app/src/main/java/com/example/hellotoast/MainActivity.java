@@ -2,14 +2,23 @@ package com.example.hellotoast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
+import android.util.LogPrinter;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import static android.provider.AlarmClock.EXTRA_MESSAGE;
+
 public class MainActivity extends AppCompatActivity {
+    private static final String LOG_TAG = MainActivity.class.getSimpleName();
     private int mCount = 0;
     private TextView mShowCount;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,12 +28,17 @@ public class MainActivity extends AppCompatActivity {
     }
 
 //Toast method
-    public void showToast(View view) {
-        Toast toast = Toast.makeText(this, R.string.toast_message, Toast.LENGTH_SHORT);
-        toast.show();
+    public void sayHello(View view) {
+        Log.d(LOG_TAG, "Button clicked!");
+        Intent intent = new Intent(this, MainActivity2.class );
+        startActivity(intent);
+
+
+
     }
 
 //Count method
+    @SuppressLint("SetTextI18n")
     public void countUp(View view) {
         ++mCount;
         if (mShowCount != null)

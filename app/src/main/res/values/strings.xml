@@ -2,6 +2,8 @@
     <string name="app_name">Hello Toast</string>
     <string name="toast">Toast</string>
     <string name="count">count</string>
-    <string name="_0">0</string>
     <string name="toast_message">Hello Toast!</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="_0">0</string>
+    <string name="hello">Hello!</string>
 </resources>
