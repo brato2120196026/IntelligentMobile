@@ -1,5 +1,6 @@
 # TwoActivity Classwork Source Code
-
+The TwoActivities app contains two activities.<br>
+It uses an explicit Intent to launch one Activity from another, and uses Intent extras to pass data between them.
 # Pre-requisites
 
 # Getting Started
