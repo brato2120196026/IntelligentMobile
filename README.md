@@ -89,3 +89,6 @@ This command records or snapshots the file permanently in the version history.
 
 - This command fetches and merges changes on the remote server to your working directory.
 - Usage: git pull [Repository Link]
+
+Activity Snapshot:
+![](ActivityTwoAss1.png)
