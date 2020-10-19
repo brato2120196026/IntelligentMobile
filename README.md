@@ -7,7 +7,12 @@ When clicked, the button launches a camera app on the device.<br>
 
 # Result
 ### Codelab 1.2 Part B: The layout editor
-<li> [Branch: HelloConstraint_Homework](https://github.com/brato2120196026/IntelligentMobile/tree/HelloConstraint_Homework)
+<li> Branch: HelloConstraint_Homework
+ 
+ ![](HelloConstraint1.png)
+
+
+![](HelloConstraint2.png)
 
 
 
