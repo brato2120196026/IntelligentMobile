@@ -25,7 +25,7 @@ Java
 <li>  [Branch: HelloToast_Classwork](https://github.com/brato2120196026/IntelligentMobile/tree/HelloToast_Classwork)
   
 ### Codelab 1.2 Part B: The layout editor
-<li> [Branch: HelloConstraint_Homework](https://github.com/brato2120196026/IntelligentMobile/tree/HelloConstraint_Homework)
+<li> Click the link below to view: HelloConstraint_Homework (https://github.com/brato2120196026/IntelligentMobile/tree/HelloConstraint_Homework)
 
 ## Week 4. Activities and intents
 ### Codelab 2.1: Activities and intents
