@@ -16,7 +16,7 @@ Java
 
 ## Week 2. Get started
 ### Codelab 1.1: Android Studio and Hello World.<br>
-<li> Click the link below to view Hello World Classwork (https://github.com/brato2120196026/IntelligentMobile/tree/HelloWorld_Classwork)
+<li> Click the link below to view Hello World Classwork: https://github.com/brato2120196026/IntelligentMobile/tree/HelloWorld_Classwork
 
 <li> Click the link below to view Hello World Homework (https://github.com/brato2120196026/IntelligentMobile/tree/HelloWorld_Homework)
 
