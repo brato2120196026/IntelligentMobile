@@ -1,6 +1,5 @@
 # DroidCafeOptionsUp Classwork - Solution Code
 
-
 ## Pre-requisites
 To run this app you should be familiar with creating and running apps in Android Studio.
 
