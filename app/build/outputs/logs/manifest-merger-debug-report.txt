@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:3:1-24:12
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:3:1-24:12
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:3:1-24:12
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:3:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f77d6fadd81113396f486227ed2ba5d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2e7753a3c0c61e0ca76147d7e765dbec/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ceb7481d61c48dfdd0c91a5123d2287b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fa54b8769e4f58221dd831db3929d939/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ebc24bfaeb0e9467b226ed3c74dd16d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/54bfffc773d95e106f9d4113c1a097df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2e19773ba4577d7fba2ceca5b77a657c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/715cd8fc53af3535141acee228240d82/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e00d6a7c588b07e35877959a47f53c68/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4320128ddb211e989ecccbd35884889e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b4ad61e2c900699bee34b4a706770780/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bf095ade34f95580118dc24409f95874/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:3:1-24:12
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:3:1-24:12
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:3:1-24:12
+	package
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:5:5-43
+		INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:3:1-24:12
+		INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:3:1-24:12
+		INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2e7753a3c0c61e0ca76147d7e765dbec/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2e7753a3c0c61e0ca76147d7e765dbec/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:10:9-41
+	tools:ignore
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.android.example.notifyme.MainActivity
+ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:15:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f77d6fadd81113396f486227ed2ba5d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f77d6fadd81113396f486227ed2ba5d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2e7753a3c0c61e0ca76147d7e765dbec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2e7753a3c0c61e0ca76147d7e765dbec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ceb7481d61c48dfdd0c91a5123d2287b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ceb7481d61c48dfdd0c91a5123d2287b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fa54b8769e4f58221dd831db3929d939/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fa54b8769e4f58221dd831db3929d939/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ebc24bfaeb0e9467b226ed3c74dd16d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ebc24bfaeb0e9467b226ed3c74dd16d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/54bfffc773d95e106f9d4113c1a097df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/54bfffc773d95e106f9d4113c1a097df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2e19773ba4577d7fba2ceca5b77a657c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2e19773ba4577d7fba2ceca5b77a657c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/715cd8fc53af3535141acee228240d82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/715cd8fc53af3535141acee228240d82/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e00d6a7c588b07e35877959a47f53c68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e00d6a7c588b07e35877959a47f53c68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4320128ddb211e989ecccbd35884889e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4320128ddb211e989ecccbd35884889e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b4ad61e2c900699bee34b4a706770780/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b4ad61e2c900699bee34b4a706770780/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bf095ade34f95580118dc24409f95874/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bratomadina/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bf095ade34f95580118dc24409f95874/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/src/main/AndroidManifest.xml

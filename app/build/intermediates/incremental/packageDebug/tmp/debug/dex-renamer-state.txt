@@ -1,0 +1,4 @@
+#Tue Nov 17 16:40:38 CST 2020
+base.0=/Users/bratomadina/AndroidStudioProjects/Week 10/NotifyMe/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
