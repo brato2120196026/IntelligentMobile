@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Nov 03 00:45:27 CST 2020
+0.baseType=DIRECTORY
+0.base=/Users/bratomadina/AndroidStudioProjects/Week 6/DroidCafeInput Classwork/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bratomadina/AndroidStudioProjects/DroidCafeInput/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/bratomadina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4732211e5d129b24142841d4c250a658/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/bratomadina/AndroidStudioProjects/Week 6/DroidCafeInput Classwork/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/bratomadina/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4732211e5d129b24142841d4c250a658/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
