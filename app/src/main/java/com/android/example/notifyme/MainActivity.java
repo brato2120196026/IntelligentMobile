@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
     private NotificationManager mNotifyManager;
 
-    private NotificationReceiver mReceiver = new NotificationReceiver();
+    private final NotificationReceiver mReceiver = new NotificationReceiver();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
