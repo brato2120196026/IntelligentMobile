@@ -1,15 +1,15 @@
-# Intelligent Mobile Application
+## Intelligent Mobile Application
 To create a simple mobile app to convert Census to F
-# Features
+## Features
 This app can convert Celsius to Fahrenheit
-# Development Environment
+## Development Environment
 Andriod Studio
-# Programming Language
+## Programming Language
 Java
 
-# Classwork and Assignments
+## Classwork and Assignments
 
-## Week 1.Kick Off
+### Week 1.Kick Off
 
 ### Classwork:
 
@@ -17,7 +17,7 @@ Java
   
 <li>To write a README.md: Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
 
-## Week 2. Get started
+### Week 2. Get started
 
 ### Codelab 1.1: Android Studio and Hello World
 
@@ -25,7 +25,7 @@ Java
 
 <li> <a href="https://github.com/brato2120196026/IntelligentMobile/tree/HelloWorld_Homework">Click this to view Hello World Homework</a>
 
-## Week 3. Layouts and resources for the UI
+### Week 3. Layouts and resources for the UI
 
 ### Codelab 1.2 Part A: Your first interactive UI
 
@@ -35,7 +35,7 @@ Java
 
 <li> <a href="https://github.com/brato2120196026/IntelligentMobile/tree/HelloConstraint_Homework">Click this to view HelloConstraint_Homework</a>
 
-## Week 4. Activities and intents
+### Week 4. Activities and intents
 
 ### Codelab 2.1: Activities and intents
 
@@ -43,7 +43,7 @@ Java
 
 <li> <a href="https://github.com/brato2120196026/IntelligentMobile/tree/TwoActivities_Homework">Click this to view TwoActivities Homework</a> 
 
-## Week 5. Implicit Intents
+### Week 5. Implicit Intents
 
 ### Codelab 2.3: Implicit Intents
 
@@ -53,7 +53,7 @@ Java
 
 <li> <a href="https://github.com/brato2120196026/IntelligentMobile/tree/ImplicitIntents_Homework">Click this to view ImplicitIntents Homework</a>
   
-## Week 6. User Interaction
+### Week 6. User Interaction
 ### Codelab 4.1: Clickable images
 
 -	<a href="https://github.com/brato2120196026/IntelligentMobile/tree/DroidCafe_Classwork">Click this to view Droid Cafe Classwork</a>
@@ -66,7 +66,7 @@ Java
 
 -	<a href="https://github.com/brato2120196026/IntelligentMobile/tree/Checkboxes_Homework">Click this to view Checkboxes Homework</a>
 
-## Week 7. User Interaction
+### Week 7. User Interaction
 
 ### Codelab 4.4: User navigation
 
@@ -78,19 +78,19 @@ Java
 
 -	<a href="https://github.com/brato2120196026/IntelligentMobile/tree/RecyclerView_Classwork">Click this to view RecyclerView Classwork</a>
 
-## Week 8. Material Design
+### Week 8. Material Design
 
 ### Codelab 5.2: Cards and colors
 
 -	<a href="https://github.com/brato2120196026/IntelligentMobile/tree/MaterialMe_Starter_Classwork">Click this to view Material Me Starter Classwork</a>
 
-## Week 9. Background Tasks
+### Week 9. Background Tasks
 
 ### Codelab 7.2: AsyncTask and AsyncTaskLoader
 
 -	<a href="https://github.com/brato2120196026/IntelligentMobile/tree/WhoWroteItLoader_Classwork">Click this to view WhoWroteItLoader Classwork</a>
 
-## Week 10. Notifications
+### Week 10. Notifications
 
 ### Codelab 8.1: Notifications
 
