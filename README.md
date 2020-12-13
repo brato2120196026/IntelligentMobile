@@ -5,7 +5,7 @@
 
 ## Features
 There are features available in this patient information app, here I will list advantages of patient information app.
-Launch page or homepage with a get started button
+- Launch page or homepage with a get started button
 - Add basic patient information.
 - Delete patient information.
 - Modify or update patient information.
