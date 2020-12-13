@@ -1,9 +1,17 @@
 ## FINAL COURSE PROJECT
 
-COURSE: Intelligent Mobile Application
-PROJECT TITLE: To Design and Develop a simple CRDU Patient Information App
+- COURSE: Intelligent Mobile Application
+- PROJECT TITLE: To Design and Develop a simple CRDU Patient Information App
 
 ## Features
+There are features available in this patient information app, here I will list advantages of patient information app.
+Launch page or homepage with a get started button
+- Add basic patient information.
+- Delete patient information.
+- Modify or update patient information.
+- Retrieve or view patient information.
+- A clickable URL to the app GitHub.
+
 
 ## Development Environment
 - Andriod Studio 4.1.2
