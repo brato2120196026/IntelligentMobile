@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    tools:ignore="Orientation">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#304FFE"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:layout_marginTop="5dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:paddingStart="5dp"
+            android:text="@string/name2"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            tools:ignore="RtlSymmetry" />
+
+        <TextView
+            android:id="@+id/address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:paddingStart="5dp"
+            android:paddingLeft="5dp"
+            android:text="@string/address2"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#fff"
+            tools:ignore="RtlSymmetry" />
+
+        <TextView
+            android:id="@+id/age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:paddingStart="5dp"
+            android:paddingLeft="5dp"
+            android:text="@string/age2"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#fff"
+            tools:ignore="RtlSymmetry" />
+
+
+        <TextView
+            android:id="@+id/sex"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:paddingStart="5dp"
+            android:paddingLeft="5dp"
+            android:text="@string/sex2"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#fff"
+            tools:ignore="RtlSymmetry" />
+
+        <TextView
+            android:id="@+id/contact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:paddingStart="5dp"
+            android:paddingLeft="5dp"
+            android:text="@string/contact2"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#fff"
+            tools:ignore="RtlSymmetry" />
+
+        <TextView
+            android:id="@+id/city"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:paddingStart="5dp"
+            android:paddingLeft="5dp"
+            android:text="@string/city2"
+            tools:ignore="RtlSymmetry" />
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#E91E63"/>
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Patient Information App</string>
+    <string name="get_started">Get Started</string>
+    <string name="enter_patient_information">Enter Patient Information</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_sex">Enter Sex</string>
+    <string name="enter_contact">Enter Contact</string>
+    <string name="enter_city">Enter City</string>
+    <string name="save">Save</string>
+    <string name="get_all_patient_information">Get All Patient Information</string>
+    <string name="name1">Name:</string>
+    <string name="enter_name1">Enter Name</string>
+    <string name="address1">Address:</string>
+    <string name="enter_address1">Enter Address</string>
+    <string name="age1">Age:</string>
+    <string name="enter_age1">Enter Age</string>
+    <string name="city1">City:</string>
+    <string name="enter_city1">Enter City</string>
+    <string name="sex1">Sex:</string>
+    <string name="enter_sex1">Enter Sex</string>
+    <string name="contact1">Contact:</string>
+    <string name="enter_contact1">Enter Contact</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="name2">Name:</string>
+    <string name="address2">Address:</string>
+    <string name="age2">Age:</string>
+    <string name="sex2">Sex:</string>
+    <string name="contact2">Contact:</string>
+    <string name="city2">City:</string>
+    <string name="data_from_sqlite">Data From Sqlite</string>
+    <string name="final_project">Final Project</string>
+    <string name="course_intelligent_mobile_development">Course: Intelligent Mobile Development</string>
+    <string name="name_abdulai_brato_kamara">Name: Abdulai Brato Kamara</string>
+    <string name="student_id_2120196026">Student ID: 2120196026</string>
+    <string name="to_design_and_develop_patient_information_app">To Design and Develop Patient Information App</string>
+    <string name="nankailogo">nankailogo</string>
+    <string name="displaying_patient_information">Displaying Patient Information</string>
+    <string name="title">Title:</string>
+    <string name="lecturer_shiwenxuan">Lecturer: Shiwenxuan</string>
+    <string name="lecturer_prof_shi_wenxuan">Lecturer: Prof. Shi Wenxuan</string>
+    <string name="github"><a href="https://github.com/brato2120196026/IntelligentMobile">https://github.com/brato2120196026/IntelligentMobile</a></string>
+    <string name="github1">Github:</string>
+    <string name="date_18th_december_2020">Date: 18th December, 2020</string>
+</resources>
