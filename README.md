@@ -1,11 +1,20 @@
-## Intelligent Mobile Application
-To create a simple mobile app to convert Census to F
+## FINAL COURSE PROJECT
+
+- COURSE: Intelligent Mobile Application
+- PROJECT TITLE: To Design and Develop a simple CRDU Patient Information App
+
 ## Features
-This app can convert Celsius to Fahrenheit
+
 ## Development Environment
-Andriod Studio
+- Andriod Studio 4.1.2
+
 ## Programming Language
-Java
+- Java
+- XML
+
+## Database
+- SQLite
+- DB Broswer for SQLite 
 
 ## Classwork and Assignments
 
