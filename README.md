@@ -1,7 +1,7 @@
 ## FINAL COURSE PROJECT
 
-- COURSE: Intelligent Mobile Application
-- PROJECT TITLE: To Design and Develop a simple CRDU Patient Information App
+COURSE: Intelligent Mobile Application
+PROJECT TITLE: To Design and Develop a simple CRDU Patient Information App
 
 ## Features
 
