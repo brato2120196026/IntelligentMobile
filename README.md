@@ -22,7 +22,13 @@ There are features available in this patient information app, here I will list a
 
 ## Database
 - SQLite
-- DB Broswer for SQLite 
+- DB Broswer for SQLite
+
+## Final Project Results
+
+<li> <a href="https://github.com/brato2120196026/IntelligentMobile/tree/Final_Project">Click this to view Final Project Source Code </a><br><br>
+   
+ <img src="/assets/HomePage.png" width = "270" height = "480" />  <img src="/assets/PInfo.png" width = "270" height = "480" />  <img src="/assets/PInfoDis.png" width = "270" height = "480" />  <img src="/assets/PUpdate.png" width = "270" height = "480" /><br><br> 
 
 ## Classwork and Assignments
 
