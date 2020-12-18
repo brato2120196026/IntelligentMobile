@@ -40,7 +40,7 @@ There are features available in this patient information app, here I will list a
 <li> <a href="https://github.com/brato2120196026/IntelligentMobile/tree/HelloWorld_Classwork">Click this to view Hello World Classwork</a>
   ![](./assets/HelloworldClass.png)
   
- <img src="/assets/HelloworldClass.png"/>
+ <img src="/assets/HelloworldClass.png" width = "20" height = "20" />
 
 <li> <a href="https://github.com/brato2120196026/IntelligentMobile/tree/HelloWorld_Homework">Click this to view Hello World Homework</a>
 
