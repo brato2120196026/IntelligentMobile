@@ -38,7 +38,7 @@ There are features available in this patient information app, here I will list a
 #### Codelab 1.1: Android Studio and Hello World
 
 <li> <a href="https://github.com/brato2120196026/IntelligentMobile/tree/HelloWorld_Classwork">Click this to view Hello World Classwork</a>
-  ![](HelloWorldClasswork.png)
+  ![](assets/HelloWorldClasswork.png)
 
 <li> <a href="https://github.com/brato2120196026/IntelligentMobile/tree/HelloWorld_Homework">Click this to view Hello World Homework</a>
 
