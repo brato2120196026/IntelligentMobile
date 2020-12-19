@@ -98,7 +98,7 @@ There are features available in this patient information app, here I will list a
  
 -	<a href="https://github.com/brato2120196026/IntelligentMobile/tree/DroidCafe_Homework">Click this to view Droid Cafe Homework</a><br><br>
 
-<img src="/assets/DroidCafeAss.png" width = "270" height = "480" /><br><br>
+<img src="/assets/DroidCafeAss.png" width = "480" height = "270" /><br><br>
 
 #### Codelab 4.2: Input controls
 
